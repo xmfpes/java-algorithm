@@ -3,7 +3,7 @@
 * 자바 coding convention을 따라야 한다.
 * 각 알고리즘에 대한 테스트 코드가 반드시 존재해야 한다.
 * commit, pull request message convention을 따라야 한다.
-* [이슈](/issues)에 등록되어 있는 알고리즘 문제여야 한다.
+* [이슈](https://github.com/code-squad/java-algorithm/issues)에 등록되어 있는 알고리즘 문제여야 한다.
 * 위 4가지 원칙을 지키지 않으면 pull request가 승인되지 않는다.
 
 ## commit message && pull request message convention
